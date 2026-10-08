@@ -1,14 +1,21 @@
-Create a playable **Airline Operations Challenge** for Year 1 Business students learning about airline business models.
+Create a playable **Airline Operations Challenge** for Business & Accountancy students.
 
-Students manage a budget airline and make 5 decisions involving ticket prices, baggage fees, staffing, flight delays and customer complaints.
+Theme it as a **Singapore-inspired budget airline management game** set in Southeast Asia. The player is the newly appointed manager of a low-cost airline and must make **5 key business decisions** about ticket pricing, baggage fees, staffing, delay management and customer complaints.
 
-Build an interactive game with:
-- A colourful, retro arcade-style airline management dashboard.
-- Live indicators for profit, customer satisfaction and operational performance.
-- 3 choices per decision, each with realistic trade-offs.
-- Immediate feedback explaining the business consequences.
-- A final performance score and key learning takeaways.
+Use a **clean light-mode visual style** with a **retro handheld game / classic pixel RPG-inspired aesthetic**. Keep it playful and attractive, but **not cluttered or overwhelming**. Avoid dark neon cyberpunk styling. Use a bright, clean interface with soft backgrounds, simple pixel-inspired icons, clear cards, and strong visual hierarchy.
 
-Make it visually engaging, easy to play in 3–5 minutes and suitable for independent learning.
+Design the experience so it feels like a **business simulation game**, not just a quiz.
 
-**Generate the working game with interactive controls and show a playable preview directly.**
+Include:
+- A simple **start screen** with a short intro
+- **5 decision rounds**, one at a time
+- **3 options per decision**, each with realistic trade-offs
+- Live indicators for **Profit**, **Customer Satisfaction**, and **Operations**
+- Immediate feedback after each choice, explaining the business consequence
+- A final results screen showing the player’s performance and key learning takeaways
+
+Keep the text concise and student-friendly. Make the interface intuitive, visually clean and easy to play in **3–5 minutes**.
+
+Use subtle Singapore / regional touches where relevant, such as Southeast Asia routes, local travel context, or budget airline operating realities, but keep the experience generic enough for teaching purposes.
+
+Generate the **working interactive game** with playable controls and render it directly.
