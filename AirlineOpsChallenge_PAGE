@@ -1,0 +1,14 @@
+Create a playable **Airline Operations Challenge** for Year 1 Business students learning about airline business models.
+
+Students manage a budget airline and make 5 decisions involving ticket prices, baggage fees, staffing, flight delays and customer complaints.
+
+Build an interactive game with:
+- A colourful, retro arcade-style airline management dashboard.
+- Live indicators for profit, customer satisfaction and operational performance.
+- 3 choices per decision, each with realistic trade-offs.
+- Immediate feedback explaining the business consequences.
+- A final performance score and key learning takeaways.
+
+Make it visually engaging, easy to play in 3–5 minutes and suitable for independent learning.
+
+**Generate the working game with interactive controls and show a playable preview directly.**
