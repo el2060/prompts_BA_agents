@@ -1,0 +1,15 @@
+Create a playable **MRT Rush Hour Challenge** where the player manages a fictional Singapore-inspired train station during the morning peak hour.
+
+Use a **cute isometric city-builder / transport tycoon game style**, with a bright light-mode interface, animated trains, platforms and commuters.
+
+Include:
+- A simple illustrated MRT station with moving commuters.
+- 5 increasingly challenging situations involving crowds, delays, train frequency and passenger flow.
+- Interactive controls for operational decisions.
+- Live indicators for Passenger Happiness, Crowd Levels and Service Efficiency.
+- Immediate visual consequences and feedback.
+- A final performance rating and replay option.
+
+Make it colourful, intuitive and easy to play in 3–5 minutes. Avoid complicated controls or text-heavy screens.
+
+**Generate the working interactive game and show a playable preview directly.**
