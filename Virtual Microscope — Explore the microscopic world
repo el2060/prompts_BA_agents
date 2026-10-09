@@ -1,0 +1,11 @@
+Create an immersive **Virtual Microscope Explorer** for Biomedical Science students.
+
+Design an interactive microscope viewer showing illustrated biological cell specimens. Let students switch between plant cells, animal cells and blood cell samples, and zoom through different simulated magnification levels.
+
+Include pan-and-zoom controls, labelled cell structures, adjustable focus and a toggle to reveal or hide annotations.
+
+Add a short "Find the Structure" challenge where students locate specific features in the specimen.
+
+Use a realistic laboratory microscope aesthetic with detailed scientific illustrations, smooth zoom transitions, circular microscope viewing area and a clean modern interface.
+
+**Generate the working interactive microscope experience and render it directly.** Clearly distinguish illustrated specimens from actual microscopy imagery.
