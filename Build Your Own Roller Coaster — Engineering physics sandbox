@@ -1,0 +1,9 @@
+Create a playable **Roller Coaster Physics Lab** for Engineering students exploring energy, motion and gravity.
+
+Let students adjust the starting height, slope and friction of a roller coaster track using sliders. Animate a cart travelling along the track and show live speed, potential energy and kinetic energy indicators.
+
+Include a dynamic energy graph, a slow-motion option and experiments comparing different track designs. Show when the cart lacks enough energy to complete the track.
+
+Use a colourful theme-park simulation aesthetic with a bright interface, smooth 2D animations, clear graphs and satisfying visual feedback.
+
+**Build the working interactive physics simulator and render it directly.** Use a simplified, consistent physics model and explain its assumptions.
