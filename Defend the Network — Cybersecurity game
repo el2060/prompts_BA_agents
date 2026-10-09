@@ -1,0 +1,11 @@
+Create a playable **Cyber Defence Command** simulation for polytechnic Cybersecurity students.
+
+Show an animated network map with computers, servers, a firewall and suspicious incoming traffic. Students investigate alerts and make decisions to contain simulated phishing, malware and unauthorised access incidents.
+
+Let students select defensive actions such as isolating endpoints, blocking suspicious traffic and strengthening access controls. Show the effect on network health, service availability and risk levels.
+
+Use a polished sci-fi security operations centre style, with glowing network connections, animated alerts and clear visual indicators. Keep the interface intuitive rather than cluttered.
+
+Include 3 short missions and feedback explaining each defensive decision.
+
+**Build the working interactive defensive simulation and render it directly.**
