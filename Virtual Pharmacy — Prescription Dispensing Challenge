@@ -1,0 +1,20 @@
+Create an immersive **3D Virtual Pharmacy: Prescription Dispensing Challenge** for NP Diploma in Pharmaceutical Science students.
+
+Students play a trainee pharmacy technician in a realistic Singapore community pharmacy, practising the medication dispensing process.
+
+Build a visually rich, interactive **3D pharmacy environment** with medicine shelves, dispensing counter, computer workstation, labelling station and animated patient/pharmacist avatars. Use a polished, colourful simulation-game aesthetic with realistic details, smooth movement and a clean interface.
+
+**Let students interact with objects and complete the dispensing workflow:**
+
+1. **Receive:** Interact with a patient avatar and review a simulated prescription.
+2. **Verify:** Check patient details, medicine information, dosage instructions and possible discrepancies. Flag issues for pharmacist review.
+3. **Select:** Navigate medicine shelves and select the correct product, strength and quantity.
+4. **Label:** Prepare a dispensing label with appropriate instructions and patient details.
+5. **Check:** Review the prepared medication against the prescription and identify any deliberate errors before pharmacist verification.
+6. **Hand Over:** Interact with the patient avatar, practise explaining medication instructions and refer questions to the pharmacist where appropriate.
+
+Include clickable objects, drag-and-drop dispensing activities, scripted avatar conversations, realistic challenges and immediate feedback explaining errors and correct practices.
+
+Use fictional prescriptions and simulated medicines, with 2–3 progressively challenging cases. Make the experience engaging, intuitive and visually immersive, with minimal on-screen text.
+
+**Build the working interactive 3D-style simulation and render a playable preview directly.** Use predefined scenarios and rule-based feedback without AI inference or external APIs. Keep all clinical information illustrative and subject to lecturer validation.
