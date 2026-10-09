@@ -1,0 +1,17 @@
+Create a playable **Virtual Pharmacy: Patient Counselling Challenge** for NP Diploma in Pharmaceutical Science students.
+
+Build an immersive **3D-style Singapore community pharmacy** where students play a trainee pharmacy technician assisting virtual patients.
+
+Design a beautiful, colourful, modern simulation-game environment with pharmacy shelves, medicine displays, a consultation counter and friendly animated 3D-style patient avatars. Use clean light-mode visuals, realistic spatial layout and smooth movement.
+
+**Interactive experience:**
+- Let students explore the pharmacy and click objects, medicine displays and patient avatars.
+- Include 3 virtual patients: one seeking help for a mild headache, one asking about an OTC cold medicine, and one presenting symptoms that require referral.
+- Let students interact with patients through branching dialogue choices, asking about symptoms, allergies, existing medicines and relevant health information.
+- Allow students to inspect fictional medicine labels and information cards before making recommendations or deciding to refer.
+- Show patient reactions, decision consequences and immediate coaching feedback.
+- End each case with a short debrief on appropriate questioning, patient safety and communication.
+
+Keep the experience visually rich but intuitive, with concise dialogue, clear controls and one patient interaction at a time.
+
+**Generate the working interactive simulation and render a playable preview directly.** Use a self-contained browser implementation with coded patient responses, not AI inference. Use fictional cases and illustrative medicines; require lecturer validation of all clinical content.
