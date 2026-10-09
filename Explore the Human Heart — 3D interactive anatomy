@@ -1,0 +1,9 @@
+Create a visually stunning **interactive 3D Human Heart Explorer** for polytechnic Nursing and Biomedical Engineering students.
+
+Show a rotatable, zoomable 3D heart model with identifiable chambers, valves and major blood vessels. Let students click each structure to see its name, function and role in blood circulation.
+
+Animate oxygenated and deoxygenated blood flow using contrasting colours. Include a toggle between external anatomy and a simplified cutaway view, plus a short "Identify the Structure" challenge.
+
+Use a polished, modern medical visualisation style with a clean light-mode interface, realistic colours, smooth animations and minimal text.
+
+**Build the working interactive experience and render it directly.** Prioritise accurate anatomy, intuitive controls and clear visual explanations.
