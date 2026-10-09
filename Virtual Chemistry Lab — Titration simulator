@@ -1,0 +1,9 @@
+Create an interactive **Virtual Titration Lab** for polytechnic Chemistry students.
+
+Show an attractive virtual laboratory with a burette, conical flask, indicator and labelled equipment. Students can add titrant in adjustable increments and observe realistic colour changes as the endpoint approaches.
+
+Display the volume added, a live pH curve and a results panel. Let students calculate the unknown concentration, check their answer and receive explanatory feedback.
+
+Use a clean, realistic 2D laboratory aesthetic with smooth liquid animations, readable measurements and intuitive controls. Include a reset option.
+
+**Generate a functional interactive simulation and render it directly.** Base the experiment on a specified simple strong acid–strong base reaction, with chemically consistent calculations.
