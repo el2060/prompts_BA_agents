@@ -1,0 +1,11 @@
+Create an interactive **Virtual Patient Assessment** learning simulation for Nursing students.
+
+Present a fictional adult patient in a simulated Singapore hospital ward with changing vital signs, symptoms and observations.
+
+Let students review the patient chart, identify concerning findings and choose appropriate assessment, monitoring and escalation actions. Show how the patient's condition changes based on scripted scenarios.
+
+Use a clean, realistic illustrated hospital interface with a patient avatar, bedside monitor, observation chart and clear decision panels.
+
+Include feedback explaining clinical reasoning, prioritisation and when to seek senior help. Do not simulate independent prescribing or medication administration.
+
+**Build the working interactive educational simulation and render it directly.** Make clear that clinical parameters are illustrative and require lecturer validation.
