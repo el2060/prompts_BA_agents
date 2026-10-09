@@ -1,0 +1,11 @@
+Create a beautiful, interactive **Break-Even Explorer** for Business and Accountancy students.
+
+Use a Singapore bubble tea shop as the business example. Let students adjust selling price, variable cost per cup, monthly fixed costs and expected sales volume through sliders.
+
+Instantly update total revenue, total cost, profit or loss, break-even quantity and profit margin. Show an animated break-even chart with revenue and cost lines.
+
+Add a "What If?" panel that compares two pricing strategies side by side, with short explanations of the financial trade-offs.
+
+Use a clean, colourful fintech dashboard style with large numbers, elegant charts, intuitive sliders and minimal text.
+
+**Generate the fully functional calculator with accurate formulas and render it directly.**
