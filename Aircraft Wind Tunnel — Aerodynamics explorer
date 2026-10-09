@@ -1,0 +1,9 @@
+Create an interactive **Aircraft Wind Tunnel Simulator** for Aerospace Engineering students.
+
+Show a visually impressive aircraft wing section inside a virtual wind tunnel. Animate airflow streamlines as students adjust airspeed and angle of attack using sliders.
+
+Display changing lift, drag and airflow patterns, with a clear visual warning when the wing approaches stall conditions. Include an optional simplified lift graph and a comparison of wing settings.
+
+Use a polished aerospace laboratory aesthetic with a clean light-mode interface, 3D-style wing visualisation, animated airflow and minimal text.
+
+**Build the working interactive simulator and render it directly.** Use an educational approximation rather than claiming computational fluid dynamics accuracy.
